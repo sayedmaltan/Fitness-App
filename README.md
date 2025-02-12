@@ -22,7 +22,37 @@ A **Flutter-based fitness application** integrated with **Firebase** to help use
 
 ## 📸 Screenshots
 
-_Add screenshots of your app here._
+![0](https://github.com/user-attachments/assets/f3723c85-390e-42b8-b451-624fa75ec114)
+
+![1](https://github.com/user-attachments/assets/1e32d488-80a4-473d-bc22-f48faf688178)
+
+![2](https://github.com/user-attachments/assets/c34e0b14-5471-45b2-bcf1-b55744f904fa)
+
+![3](https://github.com/user-attachments/assets/d2b8b845-2285-4e5a-b258-e5b8f658aa2e)
+
+![4](https://github.com/user-attachments/assets/ca89f141-b597-4afa-b6d8-f3359f7b4975)
+
+![6](https://github.com/user-attachments/assets/88665c15-13cb-4f61-a059-8980402ae2d9)
+
+![7](https://github.com/user-attachments/assets/a72ed14a-f94b-4029-bc01-e7cfc0e859f9)
+
+![8](https://github.com/user-attachments/assets/8291560a-d063-4c99-88d9-325085238bcc)
+
+![9](https://github.com/user-attachments/assets/3bac2bb0-8f92-4b7c-bcee-70bbbee71c4e)
+
+![10](https://github.com/user-attachments/assets/e6ffec49-55c5-4d04-9f24-10247daf1400)
+
+![11](https://github.com/user-attachments/assets/5650043e-6fb9-44cd-bbc5-1a48ce8ad6eb)
+
+![12](https://github.com/user-attachments/assets/ff45814f-a848-42bb-a5e8-83f5d097b29e)
+
+![13](https://github.com/user-attachments/assets/baa14e8a-382f-4bb6-890b-6ff39fbe7472)
+
+![14](https://github.com/user-attachments/assets/ac8a052e-ecc3-4b0a-a65b-326efd161966)
+
+![15](https://github.com/user-attachments/assets/3355ef2a-cf17-44b2-8264-787ce9c45a63)
+
+![16](https://github.com/user-attachments/assets/4be71890-94df-4e71-a0f0-5d7d7e0fafeb)
 
 ## 📦 Installation
 
