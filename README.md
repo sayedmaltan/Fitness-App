@@ -1,4 +1,4 @@
-# 🏍b️ Fitness App
+# 🏍Fitness App
 
 A **Flutter-based fitness application** integrated with **Firebase** to help users track workouts, set goals, and maintain a healthy lifestyle. The app provides personalized fitness plans, real-time progress tracking, and an intuitive UI for a seamless user experience.
 
