@@ -32,8 +32,6 @@ A **Flutter-based fitness application** integrated with **Firebase** to help use
 
 ![4](https://github.com/user-attachments/assets/ca89f141-b597-4afa-b6d8-f3359f7b4975)
 
-![6](https://github.com/user-attachments/assets/88665c15-13cb-4f61-a059-8980402ae2d9)
-
 ![7](https://github.com/user-attachments/assets/a72ed14a-f94b-4029-bc01-e7cfc0e859f9)
 
 ![8](https://github.com/user-attachments/assets/8291560a-d063-4c99-88d9-325085238bcc)
