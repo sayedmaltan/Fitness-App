@@ -28,7 +28,7 @@ _Add screenshots of your app here._
 
 1. **Clone the repository:**  
    ```sh
-   git clone https://github.com/sayedmaltan/fitness-app.git
+   git clone https://github.com/sayedmaltan/Fitness-App.git
    cd fitness-app
    ```  
 
